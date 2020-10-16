@@ -1,4 +1,2 @@
-test
-test
-test
-test
+print("HelloWorld")
+测试文件
